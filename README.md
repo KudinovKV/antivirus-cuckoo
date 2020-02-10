@@ -1,8 +1,8 @@
 # antivirus-cuckoo
 
-*cuckoo_start_scan* - main file to start scanning
-*cuckoo_worker* - all requests to Cuckoo Sandbox Server
-*myparser* - Random forest classifier (malware/clear)
+1. *cuckoo_start_scan* - main file to start scanning
+2. *cuckoo_worker* - all requests to Cuckoo Sandbox Server
+3. *myparser* - Random forest classifier (malware/clear)
 
 # Start working
 

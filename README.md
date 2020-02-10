@@ -8,9 +8,9 @@
 
 1. Run Cuckoo Server on another VM.
 
-> virtualbox
-> cuckoo api -H 0.0.0.0
-> cuckoo -d
+> virtualbox  
+> cuckoo api -H 0.0.0.0  
+> cuckoo -d  
 
 2. Installing python3.
 3. Change your *auth_token* on *cuckoo_start_scan*.
